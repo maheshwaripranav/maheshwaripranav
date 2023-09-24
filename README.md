@@ -1,7 +1,10 @@
-### Hi there 👋
+ ### Hi there 👋
+<!--
 <div id="header" align="center">
   <img src="https://i.imgur.com/5AYWoIP.png" width="75%"/>
 </div>
+-->
+
 <div id="badges" align="center">
   <a href="https://in.linkedin.com/in/maheshwaripranav">
     <img src="https://img.shields.io/badge/LinkedIn-seagreen?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
