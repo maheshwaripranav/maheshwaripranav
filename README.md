@@ -9,7 +9,7 @@
   <a href="https://www.instagram.com/_maheshwaripranav/">
     <img src="https://img.shields.io/badge/Insta-white?style=flat-square&logo=instagram&logoColor=pink" alt="Instagram Badge"/>
   </a>
-  <a href="https://wa.me/918910849029">
+  <a href="https://wa.me/+919971726470">
     <img src="https://img.shields.io/badge/WhatsApp-white?style=flat-square&logo=whatsapp&logoColor=green" alt="Whatsapp Badge"/>
   </a>
   <a href="https://twitter.com/maheswaripranav">
