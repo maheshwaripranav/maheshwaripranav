@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Twitter-steelblue?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="mailto:pranav.maheshwari@studetns.iiserpune.ac.in">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=maheshwaripranav&style=flat-square&color=blue" alt=""/>
