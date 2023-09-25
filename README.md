@@ -30,7 +30,7 @@ I'm a student researcher from India 🇮🇳 unentangling structures in Quantum 
 
 - 🎓 I’m currently working on my MS Thesis under the supervision of Dr. Ankur Raina, Assistant Professor, IISER Bhopal. 
 - 🌱 I’m currently learning Quantum Fault Tolerance Techniques for color codes. 
-- 🫱🏼‍🫲🏼 I’m looking to collaborate on Quantum Computing and Information Projects.
+- 🤝 I’m looking to collaborate on Quantum Computing and Information Projects.
 - 💬 Ask me about anything you like...I love sharing and listening to life experiences.
 - 📫 Reach me through social media or mail(preferred).
 
@@ -40,7 +40,8 @@ I'm a student researcher from India 🇮🇳 unentangling structures in Quantum 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" title="Julia" alt="Julia" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fortran/fortran-original.svg" title="Fortran" alt="Fortran" width="40" height="40"/>&nbsp;  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://icon.icepanel.io/Technology/svg/Fortran.svg" title="Fortran" alt="Fortran" width="40" height="40"/>&nbsp  
 </div>
 
 ### Packages & Softwares
