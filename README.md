@@ -12,15 +12,16 @@
   <a href="https://www.instagram.com/_maheshwaripranav/">
     <img src="https://img.shields.io/badge/Insta-white?style=flat-square&logo=instagram&logoColor=pink" alt="Instagram Badge"/>
   </a>
+  <a href="mailto:pranav.maheshwari@studetns.iiserpune.ac.in">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
   <a href="https://wa.me/+919971726470">
     <img src="https://img.shields.io/badge/WhatsApp-white?style=flat-square&logo=whatsapp&logoColor=green" alt="Whatsapp Badge"/>
   </a>
   <a href="https://twitter.com/maheswaripranav">
     <img src="https://img.shields.io/badge/Twitter-steelblue?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="mailto:pranav.maheshwari@studetns.iiserpune.ac.in">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
+
   <br>
   <img src="https://komarev.com/ghpvc/?username=maheshwaripranav&style=flat-square&color=blue" alt=""/>
 </div>
