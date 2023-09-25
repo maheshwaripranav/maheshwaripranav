@@ -18,6 +18,9 @@
   <a href="https://twitter.com/maheswaripranav">
     <img src="https://img.shields.io/badge/Twitter-steelblue?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="mailto:pranav.maheshwari@studetns.iiserpune.ac.in">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=maheshwaripranav&style=flat-square&color=blue" alt=""/>
 </div>
@@ -40,7 +43,7 @@ I'm a student researcher from India 🇮🇳 unentangling structures in Quantum 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" title="Julia" alt="Julia" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://icon.icepanel.io/Technology/svg/Fortran.svg" title="Fortran" alt="Fortran" width="40" height="40"/>&nbsp  
 </div>
 
