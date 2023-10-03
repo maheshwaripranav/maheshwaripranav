@@ -1,6 +1,6 @@
  ### Hi There 👋
 <div id="header" align="center">
-  <img src="images/profile_banner.png"/>
+  <img src="Profile Banner.png"/>
 </div>
 
 <div id="badges" align="center">
