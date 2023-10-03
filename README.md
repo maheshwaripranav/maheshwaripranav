@@ -1,9 +1,7 @@
- ### Hi there 👋
-<!--
+ ### Hi There 👋
 <div id="header" align="center">
-  <img src="https://i.imgur.com/5AYWoIP.png" width="75%"/>
+  <img src="images/profile_banner.png"/>
 </div>
--->
 
 <div id="badges" align="center">
   <a href="https://in.linkedin.com/in/maheshwaripranav">
@@ -26,7 +24,7 @@
   <img src="https://komarev.com/ghpvc/?username=maheshwaripranav&style=flat-square&color=blue" alt=""/>
 </div>
 <div align="center">
-<h1> Hi there 🥰 Welcome to my GitHub!</h1>  
+<h1> Welcome to my GitHub!</h1>  
 </div>
 
 ## About Me
