@@ -7,14 +7,11 @@
   <a href="https://in.linkedin.com/in/maheshwaripranav">
     <img src="https://img.shields.io/badge/LinkedIn-seagreen?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/_maheshwaripranav/">
+<!--   <a href="https://www.instagram.com/_maheshwaripranav/">
     <img src="https://img.shields.io/badge/Insta-white?style=flat-square&logo=instagram&logoColor=pink" alt="Instagram Badge"/>
-  </a>
+  </a> -->
   <a href="mailto:pranav.maheshwari@studetns.iiserpune.ac.in">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a href="https://wa.me/+919971726470">
-    <img src="https://img.shields.io/badge/WhatsApp-white?style=flat-square&logo=whatsapp&logoColor=green" alt="Whatsapp Badge"/>
   </a>
   <a href="https://twitter.com/maheswaripranav">
     <img src="https://img.shields.io/badge/Twitter-steelblue?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Badge"/>
